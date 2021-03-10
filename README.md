@@ -2,9 +2,9 @@
 
 - 🌱 I’m currently learning Typescript and Go
 
-<!--![matrix](https://user-images.githubusercontent.com/7265736/98467374-f5343980-21e5-11eb-9aad-bc5f2af49098.gif)
+![matrix](https://user-images.githubusercontent.com/7265736/98467374-f5343980-21e5-11eb-9aad-bc5f2af49098.gif)
 
-![matrix](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=capan)
+![rank](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=capan)
 
 <!--
 **capan/capan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
