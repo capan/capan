@@ -1,6 +1,6 @@
 ### Hi I'm Huseyin 👋
 
-- 🌱 I’m currently learning Typescript and Go
+- 🌱 I’m currently learning Cloud and DevOps
 
 ![matrix](https://user-images.githubusercontent.com/7265736/98467374-f5343980-21e5-11eb-9aad-bc5f2af49098.gif)
 
