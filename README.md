@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Huseyin</h1>
-<h3 align="center">Curious and passionate software developer</h3>
+<h3 align="center">🚀 Engineering Lead | Cloud Computing Specialist | Full-Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=capan&label=Profile%20views&color=0e75b6&style=flat" alt="capan" /> </p>
+
+<p>As an Engineering Lead with a strong foundation in software architecture and development, I specialize in steering high-performing teams towards the successful delivery of scalable and efficient software solutions. With a tenure marked by significant achievements at leading tech companies like CarbMee and Getir, I've demonstrated my ability to thrive in dynamic environments, driving both technological innovation and business growth.</p>
 
 - 🔭 I’m currently working on [Rust Water Simulation](https://github.com/capan/wasm-water-simulation)
 
@@ -17,7 +19,7 @@
 
 - ⚡ Fun fact **My favourite cartoon is Spongebob 🧽**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Let's connect! I'm always open to discussing innovative tech solutions, potential collaborations, and opportunities to contribute to exciting projects.</h3>
 <p align="left">
 <a href="https://dev.to/https://dev.to/capan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/capan" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/capan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/capan/" height="30" width="40" /></a>
